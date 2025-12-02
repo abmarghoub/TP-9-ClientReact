@@ -35,11 +35,12 @@ Ce TP permet de maîtriser :
 
 #### **Backend (Spring Boot)**
 
-![img.png](img.png)
+<img width="485" height="679" alt="image" src="https://github.com/user-attachments/assets/333f382c-42f7-4fd6-a730-58b12d9cf388" />
 
 #### **Frontend (React)**
 
-![img_1.png](img_1.png)
+<img width="389" height="638" alt="image" src="https://github.com/user-attachments/assets/99c1f3bb-e64f-472d-bf09-58243bc744c7" />
+
 
 ---
 
@@ -47,10 +48,10 @@ Ce TP permet de maîtriser :
 
 ### **Formulaire d’ajout de compte**
 
-![tp9-ala.png](../../Pictures/tp15/tp9-ala.png)
-![tp9-al.png](../../Pictures/tp15/tp9-al.png)
-![tp9-aj.png](../../Pictures/tp15/tp9-aj.png)
+<img width="852" height="818" alt="tp9-al" src="https://github.com/user-attachments/assets/83d4b374-5cdf-4f21-a8ae-5b248895a93e" />
 
+<img width="868" height="492" alt="tp9-ala" src="https://github.com/user-attachments/assets/66564ed8-6b55-4380-90eb-569c5b123ae2" />
+<img width="868" height="867" alt="tp9-aj" src="https://github.com/user-attachments/assets/ae832304-3087-44d1-866f-34528048cfdb" />
 
 
 ###  Processus global
@@ -62,6 +63,13 @@ Ce TP permet de maîtriser :
    POST http://localhost:8082/banque/comptes
    ```
 3. Le compte apparaît dans la liste en dessous.
-![tp9-h2.png](../../Pictures/tp15/tp9-h2.png)
+<img width="848" height="673" alt="tp9-h2" src="https://github.com/user-attachments/assets/b2a894d7-1a09-4dac-bae9-5281ba7ea5e2" />
+
 
 ---
+## Auteur
+**Réalisé par :** Abla MARGHOUB <br>
+**Encadré par :** Pr. Mohamed LACHGAR<br> 
+**Module :** Techniques de Programmation Avancée<br> 
+**Cours :** Architecture Microservices : Conception, Déploiement et Orchestration<br>
+**Établissement :** École Normale Supérieure - Université Cadi Ayyad<br>
